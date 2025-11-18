@@ -1,0 +1,7 @@
+X (įėjimas):
+Visa stuburo dalies rentgeno nuotrauka (pilna projekcija).
+
+Y (išėjimas):
+	Dvejetainė klasifikacija:
+		0 — lūžio nėra
+		1 — yra stuburo lūžis

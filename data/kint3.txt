@@ -1,0 +1,5 @@
+X (įėjimas):
+Rentgeno vaizdas.
+
+Y (išėjimas):
+Pikselių lygmens binarinė maskė (1 = lūžio vieta, 0 = fonas).

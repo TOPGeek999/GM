@@ -1,0 +1,1 @@
+Pateikti kelis (min. 3) pavyzdžius kurie demonstruotų End-To-End sprendimą. (tai x ir y). giliojo mokymosi kontekste ir būtent šioje temoje - Stuburo lūžių aptikėjas. mes kursime modelį, kuris mokinsis aptikti lūžius žmogaus stubure

@@ -1,0 +1,5 @@
+X (įėjimas):
+Stuburo rentgeno nuotrauka.
+
+Y (išėjimas):
+Bounding box koordinatės (x1, y1, x2, y2) aplink lūžį (klasės žyma: “fracture”).
